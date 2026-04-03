@@ -31,3 +31,6 @@ I’m continuing to strengthen my Python and data analysis skills and preparing 
 * Learn data visualization (Matplotlib / Seaborn)
 * Build beginner-level data projects
 * Explore machine learning basics
+
+## Certificate
+[View Certificate](https://coursera.org/share/45d052b7516dfc21d12ed2cfd242329b )
